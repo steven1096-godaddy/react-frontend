@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          React, CDK, and Amplify! 
+          React, CDK, and Amplify!<br></br> 
+          Testing a new Feature
         </p>
         <a
           className="App-link"
